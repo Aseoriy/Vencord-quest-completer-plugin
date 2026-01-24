@@ -3,3 +3,5 @@ a plugin i made for vencord to complete quests without having to watch the video
 
 Tutorial for what to do, "i made it for my sister"
 https://drive.google.com/file/d/1A941Y9o2Kt9YpkCS49jiP_8JXrAvZRBV/view?usp=drive_link
+
+uh so the tsx file in that folder is now outdated so dont use that one
